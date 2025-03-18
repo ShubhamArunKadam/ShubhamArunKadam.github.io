@@ -1,35 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.dba715f2.css",
-    "main.js": "/static/js/main.e964534d.js",
+    "main.css": "/static/css/main.845b518a.css",
+    "main.js": "/static/js/main.3498dcc1.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/js/64.66b1e548.chunk.js": "/static/js/64.66b1e548.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/js/769.68d7ca4b.chunk.js": "/static/js/769.68d7ca4b.chunk.js",
     "static/media/Project_2.png": "/static/media/Project_2.a0178853338dbc41ebce.png",
+    "static/media/Project3.png": "/static/media/Project3.9e32d034f99a96fe48da.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Project1.webp": "/static/media/Project1.b2a6e68712b96c1444ad.webp",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.7030db14e57be18a14b1.png",
+    "static/media/Mumbai_university.png": "/static/media/Mumbai_university.de7cfd66bc3da180344d.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/VIDYAVARDHINI-logo.png": "/static/media/VIDYAVARDHINI-logo.33f2279750786c9a4e89.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/airbnbLogo.webp": "/static/media/airbnbLogo.5c9ae6ec9b9c12a560b8.webp",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
-    "static/media/Project3.webp": "/static/media/Project3.0254fd21c736bd794b5e.webp",
     "index.html": "/index.html",
-    "static/media/talksCardBack.svg": "/static/media/talksCardBack.99241699e0279aeb0db7.svg",
-    "main.dba715f2.css.map": "/static/css/main.dba715f2.css.map",
-    "main.e964534d.js.map": "/static/js/main.e964534d.js.map",
+    "main.845b518a.css.map": "/static/css/main.845b518a.css.map",
+    "main.3498dcc1.js.map": "/static/js/main.3498dcc1.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "64.66b1e548.chunk.js.map": "/static/js/64.66b1e548.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+    "769.68d7ca4b.chunk.js.map": "/static/js/769.68d7ca4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dba715f2.css",
-    "static/js/main.e964534d.js"
+    "static/css/main.845b518a.css",
+    "static/js/main.3498dcc1.js"
   ]
 }
